@@ -1,3 +1,11 @@
+# Build directories
+/build
+/debug
+/release
+
+# Vim swap files
+*.swp
+
 # Prerequisites
 *.d
 
